@@ -1,2 +1,2 @@
-# go-advanced
-Golang advanced course materials
+# golang-course
+Golang course materials to accompany my Udemy course. 
