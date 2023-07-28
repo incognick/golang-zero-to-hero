@@ -5,7 +5,7 @@ import "fmt"
 type transformFunc func(int, int) (int, int)
 
 func main() {
-	fmt.Println("functions-01")
+	fmt.Println("functions-as-arguments")
 
 	fmt.Println(swap(1, 2))
 	fmt.Println(increment(1, 2))
