@@ -22,7 +22,7 @@ func main() {
 	fmt.Println("constants and enums")
 
 	handleState(StatePrep)
-	handleState(ColorGreen)
+	// handleState(ColorGreen)
 }
 
 func handleState(state State) {
