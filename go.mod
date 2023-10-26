@@ -1,3 +1,3 @@
-module github.com/incognick/go-advanced
+module github.com/incognick/go-zero-to-hero
 
-go 1.19
+go 1.21
