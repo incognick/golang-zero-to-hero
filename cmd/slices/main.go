@@ -20,6 +20,8 @@ func main() {
 		fmt.Println(name)
 	}
 
+	print(names)
+
 }
 
 func print(names []string) {
