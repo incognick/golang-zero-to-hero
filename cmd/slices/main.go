@@ -22,6 +22,14 @@ func main() {
 
 	print(names)
 
+	change(names)
+
+	print(names)
+
+}
+
+func change(n []string) {
+	n[2] = "Chris"
 }
 
 func print(names []string) {
